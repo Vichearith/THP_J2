@@ -1,4 +1,4 @@
-puts "Quelle es ton année de naissance ?"
+puts "Quelle est ton année de naissance ?"
 print "> "
 a = gets.chomp.to_i
 until a > 2018 do

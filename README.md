@@ -21,12 +21,12 @@
 
 Le programme ne fonctionne pas car le terme ```number_of_minutes_in_an_hour``` n'est pas défini. 
 
-## Exercice 6
+## Exercice 7
 
 ```gets.chomp``` est utilisé pour prendre les entrées de chaînes de caractères de la part des utilisateurs.
 
-## Exercice 6
-
-a/ Demande une valeur à l'utilisateur sans indiquer où.
-b/ Demande une valeur à l'utilisateur en indiquant où.
-c/ Exige une valeur sans signaler laquelle, sans message et sans dire où.
+<ul>
+<li>a/ Demande une valeur à l'utilisateur sans indiquer où.</li>
+<li>b/ Demande une valeur à l'utilisateur en indiquant où.</li>
+<li>c/ Exige une valeur sans signaler laquelle, sans message et sans dire où.</li>
+</ul>

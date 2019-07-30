@@ -1,4 +1,4 @@
-# The Hacking Project - Day 2
+# The Hacking Project - Semaine 1 - Mardi
 
 ## Exercice 2
 
